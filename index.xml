@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vincent Zhang</title>
-    <link>http://vincenttide.com/</link>
+    <link>http://vincenttide.github.io/</link>
     <description>Recent content on Vincent Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://vincenttide.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://vincenttide.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
